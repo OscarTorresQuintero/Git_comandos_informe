@@ -85,40 +85,8 @@ git push
 Entra a la página del repositorio en GitHub y confirma que tus archivos y commits aparecen.
 ![github](https://github.com/user-attachments/assets/2568bdb6-975c-4539-a09f-7003a3481f75)
 
-## 3. Buenas prácticas y consejos
 
-- Ignorar archivos innecesarios con `.gitignore` (node_modules/, .env, etc.).
-- Crea ramas para nuevas funcionalidades: `git checkout -b feature/nueva-funcion`.
-- Manténer commits pequeños y temáticos.
-- Revisar `git pull` antes de empezar a trabajar para evitar conflictos.
-- Cuando tengamos conflictos, resuélverlos localmente, probar y luego `git add` + `git commit`.
-- Usar `git log --oneline --graph` para ver historial de forma gráfica en la terminal.
-
----
-
-## 4. Estructura sugerida del repositorio
-```
-mi-proyecto/
-├─ README.md
-├─ screenshots/
-│  ├─ 01_crear_repo_github.png
-│  ├─ 02_clonar_repo.png
-│  └─ ...
-├─ src/
-└─ .gitignore
-```
-
----
-
-## 5. Checklist de entrega
-- [ ] README.md con explicación de comandos.
-- [ ] Capturas de pantalla de cada paso en `screenshots/`.
-- [ ] Repositorio público en GitHub.
-- [ ] Enlace al repositorio incluido en la entrega.
-
----
-
-## 6. Enlace de entrega 
+ Enlace de entrega 
 https://github.com/OscarTorresQuintero/Git_comandos_informe
 
 
