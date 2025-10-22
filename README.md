@@ -7,7 +7,7 @@
   -**GitHub**: servicio en la nube para alojar repositorios Git, colaborar, y mostrar proyectos
   ## 2. Proceso paso a paso para enviar tus cambios a GitHub
 
-A continuación presento el flujo típico, desde crear el repositorio remoto en GitHub hasta subir cambios desde tu equipo.
+A continuación presento el flujo típico, desde crear el repositorio remoto en GitHub hasta subir cambios desde nuestro equipo.
 
 ### Paso 1 — Crear el repositorio en GitHub
 1. Entra a GitHub y crea un nuevo repositorio (en este caso mi respositorio tiene el nombre de "Git_comandos_informe").
