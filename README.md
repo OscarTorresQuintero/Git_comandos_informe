@@ -2,7 +2,7 @@
 # Informe: Comandos básicos de Git y proceso para subir cambios a GitHub
 **Autor:** Oscar Torres  Quintero
 **Programa:** Analisis Y Desarrollo de software 
-**Ficha:**3293689
+**Ficha:** 3293689
 ## 1. Resumen rápido — ¿Qué es Git y GitHub?
 - **Git**: sistema de control de versiones distribuido que registra cambios en archivos y permite trabajar en equipo , la segunda importante de Linux Torvals (creador de Linux)
   -**GitHub**: servicio en la nube para alojar repositorios Git, colaborar, y mostrar proyectos
