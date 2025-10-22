@@ -13,3 +13,4 @@ A continuación presento el flujo típico, desde crear el repositorio remoto en 
 ### Paso 1 — Crear el repositorio en GitHub
 1. Entra a GitHub y crea un nuevo repositorio (en este caso mi respositorio tiene el nombre de "Git_comandos_informe").
 2. Opcional: agrega un `README.md` desde la interfaz, o déjalo vacío.
+3. `Captura: ![Crear repo en GitHub](screenshots/01_crear_repo_github.png)`
